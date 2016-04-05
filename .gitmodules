@@ -1,0 +1,3 @@
+[submodule "projectDb"]
+	path = projectDb
+	url = https://github.com/ShaKann/projectDb
